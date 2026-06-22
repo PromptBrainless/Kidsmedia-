@@ -1,0 +1,6 @@
+{
+  "name": "EduSpace Mediathek",
+  "description": "Ein geschlossenes, kindgerechtes, offline-first 'Netflix für Bildung u. Medien' mit zentraler Kuration, interaktivem Quiz, Cloud SQL Datensicherung & Wikipedia/LibriVox/OpenLibrary API-Kopplung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
